@@ -7,6 +7,7 @@ This repository contains all the tasks, projects, assignments, and practical imp
 
 ## 📂 Repository Structure
 
+```text
 SS-InfoTech-Internship
 │
 ├── Day1
@@ -25,27 +26,25 @@ SS-InfoTech-Internship
 │   └── Task 5 - Portfolio Website
 │
 └── README.md
-
-
-
+```
 Each folder contains the tasks, source code, and project files completed on that particular day.
 
-🚀 Technologies Used
+## 🚀 Technologies Used
 
-HTML5
-CSS3
-JavaScript
-Git & GitHub
-Responsive Web Design
-Frontend Development Concepts
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Responsive Web Design
 
-🎯 Internship Objectives
+## 🎯 Internship Objectives
 
-Strengthen web development fundamentals
-Gain hands-on experience with real-world projects
-Improve problem-solving and coding skills
-Learn version control using Git and GitHub
-Build professional and responsive web applications
+- Strengthen web development fundamentals
+- Gain hands-on experience with real-world projects
+- Improve problem-solving skills
+- Learn Git and GitHub workflows
+- Build professional web applications
 
 📋 Completed Tasks
 
@@ -73,6 +72,7 @@ Day 5 – Portfolio Website
  • Responsive Design
  • Personal Portfolio Development
  • UI Enhancement
+ • Hosted the website on Netlify
 
 (This section will be updated regularly as new tasks are completed.)
 
