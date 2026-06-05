@@ -46,51 +46,51 @@ Each folder contains the tasks, source code, and project files completed on that
 - Learn Git and GitHub workflows
 - Build professional web applications
 
-📋 Completed Tasks
+## 📋 Completed Tasks
 
-Day 1 – Introduction
- • Introduction to HTML
- • Basic Web Page Structure
- • Understanding Web Development Fundamentals
+### Day 1 – Introduction
+- Introduction to HTML
+- Basic Web Page Structure
+- Understanding Web Development Fundamentals
 
-Day 2 – Student Registration Form
- • HTML Forms
- • Input Validation
- • Form Elements and User Data Collection
+### Day 2 – Student Registration Form
+- HTML Forms
+- Input Validation
+- Form Elements and User Data Collection
 
-Day 3 – Calculator
- • JavaScript Basics
- • Event Handling
- • Arithmetic Operations
+### Day 3 – Calculator
+- JavaScript Basics
+- Event Handling
+- Arithmetic Operations
 
-Day 4 – To-Do List 
- • DOM Manipulation
- • Task Management
- • Dynamic UI Updates
+### Day 4 – To-Do List
+- DOM Manipulation
+- Task Management
+- Dynamic UI Updates
 
-Day 5 – Portfolio Website 
- • Responsive Design
- • Personal Portfolio Development
- • UI Enhancement
- • Hosted the website on Netlify
+### Day 5 – Portfolio Website
+- Responsive Design
+- Personal Portfolio Development
+- UI Enhancement
+- Hosted the website on Netlify
 
 (This section will be updated regularly as new tasks are completed.)
-
-📈 Learning Progress
+## 📈 Learning Progress
 
 This repository serves as a record of my internship journey, showcasing continuous learning, project development, and practical implementation of web development concepts.
 
-🔄 Future Updates
+## 🔄 Future Updates
 
 I will regularly update this repository with:
 
-New daily tasks
-Mini projects
-Project enhancements
-Additional learning resources
-Internship achievements
+- New daily tasks
+- Mini projects
+- Project enhancements
+- Additional learning resources
+- Internship achievements
 
-👨‍💻 Author
-Pranav Navghare
-GitHub: PranavXDragon
-SS InfoTech Internship Program
+## 👨‍💻 Author
+
+**Pranav Navghare**
+GitHub: **PranavXDragon**
+SS InfoTech Internship
