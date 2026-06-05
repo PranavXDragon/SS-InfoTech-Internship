@@ -92,5 +92,7 @@ I will regularly update this repository with:
 ## 👨‍💻 Author
 
 **Pranav Navghare**
+
 GitHub: **PranavXDragon**
+
 SS InfoTech Internship
