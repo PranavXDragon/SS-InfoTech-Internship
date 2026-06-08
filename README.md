@@ -25,6 +25,9 @@ SS-InfoTech-Internship
 ├── Day5
 │   └── Task 5 - Portfolio Website
 │
+├── Day6
+│   └── Task 6 - Getting Started with React and Vite
+│
 └── README.md
 ```
 Each folder contains the tasks, source code, and project files completed on that particular day.
@@ -73,6 +76,16 @@ Each folder contains the tasks, source code, and project files completed on that
 - Personal Portfolio Development
 - UI Enhancement
 - Hosted the website on Netlify
+
+### Day 6 – Getting Started with React and Vite
+
+- Learned how to create a React project using Vite
+- Understood the React project structure and file organization
+- Created reusable components such as Header and Footer
+- Developed multiple pages within the application
+- Implemented basic navigation between pages
+- Practiced component-based development principles
+- Explored React fundamentals and modern frontend workflows
 
 (This section will be updated regularly as new tasks are completed.)
 ## 📈 Learning Progress
