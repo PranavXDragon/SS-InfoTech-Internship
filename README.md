@@ -28,6 +28,9 @@ SS-InfoTech-Internship
 ├── Day6
 │   └── Task 6 - Getting Started with React and Vite
 │
+├── Day7
+│   └── Task 6 - Enhanced Website UI with About Page and Automatic Image Slider
+│
 └── README.md
 ```
 Each folder contains the tasks, source code, and project files completed on that particular day.
@@ -78,7 +81,6 @@ Each folder contains the tasks, source code, and project files completed on that
 - Hosted the website on Netlify
 
 ### Day 6 – Getting Started with React and Vite
-
 - Learned how to create a React project using Vite
 - Understood the React project structure and file organization
 - Created reusable components such as Header and Footer
@@ -86,6 +88,14 @@ Each folder contains the tasks, source code, and project files completed on that
 - Implemented basic navigation between pages
 - Practiced component-based development principles
 - Explored React fundamentals and modern frontend workflows
+
+### Day 7 – Home Page Enhancement and Project Organization
+- About Page Development
+- Image Slider Implementation
+- Folder Structure Organization
+- Component-Based Development
+- UI Enhancement
+- Code Maintainability
 
 (This section will be updated regularly as new tasks are completed.)
 ## 📈 Learning Progress
