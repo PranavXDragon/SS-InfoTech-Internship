@@ -1,0 +1,27 @@
+.page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #ffffff;
+  color: #1f2937;
+}
+
+.main {
+  width: min(960px, calc(100% - 48px));
+  margin: 0 auto;
+}
+
+.main {
+  flex: 1;
+  display: grid;
+  align-content: center;
+  gap: 40px;
+  padding: 64px 0;
+}
+
+@media (max-width: 640px) {
+  .main {
+    padding: 40px 0;
+    gap: 24px;
+  }
+}
