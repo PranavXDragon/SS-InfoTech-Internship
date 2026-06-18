@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Send Data to MongoDB</title>
+</head>
+<body>
+    <h1>Send Data to MongoDB</h1>
+    <form id="dataForm">
+        <label>
+            Name:
+            <input type="text" name="name" required>
+        </label>
+        <br><br>
+        <label>
+            Email:
+            <input type="email" name="email" required>
+        </label>
+        <br><br>
+        <label>
+            Message:
+            <textarea name="message" rows="4" required></textarea>
+        </label>
+        <br><br>
+        <button type="submit">Send</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        const form = document.getElementById('dataForm');
+        const result = document.getElementById('result');
+
+        form.addEventListener('submit', async (event) => {
+            event.preventDefault();
+
+            const formData = new FormData(form);
+            const payload = {
+                name: formData.get('name'),
+                email: formData.get('email'),
+                message: formData.get('message'),
+                createdAt: new Date().toISOString()
+            };
+
+            try {
+                const response = await fetch('/api/data', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(payload)
+                });
+
+                const data = await response.json();
+                if (response.ok) {
+                    result.textContent = 'Data saved successfully. ID: ' + data.insertedId;
+                    form.reset();
+                } else {
+                    result.textContent = 'Error: ' + (data.error || 'Failed to save data');
+                }
+            } catch (error) {
+                result.textContent = 'Request failed: ' + error.message;
+            }
+        });
+    </script>
+</body>
+</html>
