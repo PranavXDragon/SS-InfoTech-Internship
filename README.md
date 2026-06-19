@@ -10,26 +10,32 @@ This repository contains all the tasks, projects, assignments, and practical imp
 ```text
 SS-InfoTech-Internship
 │
-├── Day1
-│   └── Task 1 - Introduction
+├── Day 1
+│   └── Task - Introduction
 │
-├── Day2
-│   └── Task 2 - Student Registration
+├── Day 2
+│   └── Task - Student Registration
 │
-├── Day3
-│   └── Task 3 - Calculator
+├── Day 3
+│   └── Task - Calculator
 │
-├── Day4
-│   └── Task 4 - To-Do List
+├── Day 4
+│   └── Task - To-Do List
 │
-├── Day5
-│   └── Task 5 - Portfolio Website
+├── Day 5
+│   └── Task - Portfolio Website
 │
-├── Day6
-│   └── Task 6 - Getting Started with React and Vite
+├── Day 6
+│   └── Task - Getting Started with React and Vite
 │
-├── Day7
-│   └── Task 6 - Enhanced Website UI with About Page and Automatic Image Slider
+├── Day 7
+│   └── Task - Enhanced Website UI with About Page and Automatic Image Slider
+│
+├── Day 8
+│   └── Task - Login and Signup Page Development
+│
+├── Day 9
+│   └── Task - Weather App with API Integration
 │
 └── README.md
 ```
@@ -96,6 +102,24 @@ Each folder contains the tasks, source code, and project files completed on that
 - Component-Based Development
 - UI Enhancement
 - Code Maintainability
+
+### Day 8 – Login and Signup Page Development
+
+- Authentication UI Development
+- Login Page Implementation
+- Signup Page Implementation
+- Form Validation
+- UI Enhancement
+- User Experience Improvement
+
+### Day 9 – Weather App with API Integration
+
+- Weather App Development
+- API Integration
+- Real-Time Weather Data
+- Dynamic UI Updates
+- State Management
+- Responsive Design
 
 (This section will be updated regularly as new tasks are completed.)
 ## 📈 Learning Progress
